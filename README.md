@@ -1,3 +1,5 @@
+<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
+
 # Building a data-driven infrastructure
 Learn hands on how to solve Logistics Use Cases
 by means of a Data Science Infrastructure Stack.
@@ -18,8 +20,20 @@ After completion of this course, you have a basic understanding of what kind of 
 
 In addition, you will learn how to use ChatGPT to get a better understanding of the presented course materials through a set of predefined prompts.
 
+
+<img align="left" width="600" height="300" src="https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/2953df1e-6897-4cf9-bf97-d739b776901f">
+
+
+
 ## Who should follow this course?
 Bachelor students who want to experience hands-on what kind of toolchains and hardware is needed to solve data driven logistics use cases in real-world business environments. 
 
 Even if you don’t have a background in infrastructure, data science and/or data engineering. This also counts for representatives from small/medium enterprises with no background on this topic.
+
+
+
+
+
+
+
 
