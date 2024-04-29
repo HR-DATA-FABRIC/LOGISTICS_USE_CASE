@@ -28,3 +28,5 @@ Even if you don’t have a background in infrastructure, data science and/or dat
 
 
 ![Asset 2](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/bf46f998-91ad-4295-a10d-f4fe1475ff28#gh-light-mode-only)
+
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
