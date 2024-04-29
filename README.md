@@ -1,4 +1,4 @@
-![image](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/8f97edb0-9dc6-4a0a-b976-11ee24db8a5d)
+<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
 # Building a data-driven infrastructure
 Learn hands on how to solve Logistics Use Cases
