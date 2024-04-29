@@ -26,3 +26,4 @@ Bachelor students who want to experience hands-on what kind of toolchains and ha
 
 Even if you don’t have a background in infrastructure, data science and/or data engineering. This also counts for representatives from small/medium enterprises with no background on this topic.
 
+[INFRA_STACK_V04.pdf](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/files/15155495/INFRA_STACK_V04.pdf)
