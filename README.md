@@ -32,3 +32,4 @@ Even if you don’t have a background in infrastructure, data science and/or dat
 
 <img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
+![image](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/8f97edb0-9dc6-4a0a-b976-11ee24db8a5d)
