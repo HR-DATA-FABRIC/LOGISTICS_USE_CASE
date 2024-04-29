@@ -6,7 +6,7 @@ https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure
 # AIM and Scope
 This E-learning course codifies best practices & ethical considerations on data driven infrastructure and logistics 4.0. by drawing up a common vocabulary between data science & data engineering (Moubayed et al., 2018; Murtaza et al., 2022).
 
-This is achieved through a hands-on implementation —by means of a (CoLab Notebook)[https://colab.research.google.com/drive/1PPT7-kUJjDcK4sTbSyE0aM4k33VLVm5j?usp=sharing] —of a basic infrastructure stack —equipment and structures—needed to solve logistics 4.0 use-cases from a data science viewpoint, the so-called DSI-stack.
+This is achieved through a hands-on implementation —by means of a [CoLab Notebook](https://colab.research.google.com/drive/1PPT7-kUJjDcK4sTbSyE0aM4k33VLVm5j?usp=sharing) —of a basic infrastructure stack —equipment and structures—needed to solve logistics 4.0 use-cases from a data science viewpoint, the so-called DSI-stack.
 
 After introducing the data driven logistics 4.0 business logic, along with the CRISP-DM workflow, we follow the journey of a novice data scientist.
 
