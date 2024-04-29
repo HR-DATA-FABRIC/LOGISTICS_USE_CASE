@@ -1,6 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/bf46f998-91ad-4295-a10d-f4fe1475ff28#gh-light-mode-only">
-
-![INFRA_STACK_V03](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/0cbeb1be-94ce-464f-abb1-fd40109c2a43)
+![image](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/8f97edb0-9dc6-4a0a-b976-11ee24db8a5d)
 
 # Building a data-driven infrastructure
 Learn hands on how to solve Logistics Use Cases
@@ -28,11 +26,9 @@ Bachelor students who want to experience hands-on what kind of toolchains and ha
 Even if you don’t have a background in infrastructure, data science and/or data engineering. This also counts for representatives from small/medium enterprises with no background on this topic.
 
 
-![Asset 2](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/bf46f998-91ad-4295-a10d-f4fe1475ff28#gh-light-mode-only)
 
-<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4">
 
-![image](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/8f97edb0-9dc6-4a0a-b976-11ee24db8a5d)
+<img align="right" width="200" height="200" src="https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/2953df1e-6897-4cf9-bf97-d739b776901f">
 
-![INFRA_STACK_V04](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/2953df1e-6897-4cf9-bf97-d739b776901f)
+
 
