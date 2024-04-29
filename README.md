@@ -28,7 +28,7 @@ Even if you don’t have a background in infrastructure, data science and/or dat
 
 
 
-<img align="right" width="200" height="200" src="https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/2953df1e-6897-4cf9-bf97-d739b776901f">
+<img align="left" width="700" height="300" src="https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/2953df1e-6897-4cf9-bf97-d739b776901f">
 
 
 
