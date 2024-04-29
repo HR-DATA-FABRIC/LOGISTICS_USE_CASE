@@ -1,3 +1,6 @@
+
+![INFRA_STACK_V03](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/0cbeb1be-94ce-464f-abb1-fd40109c2a43)
+
 # Building a data-driven infrastructure
 Learn hands on how to solve Logistics Use Cases
 by means of a Data Science Infrastructure Stack.
