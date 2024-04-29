@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="[https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/bf46f998-91ad-4295-a10d-f4fe1475ff28">
+<img align="right" width="200" height="200" src="(https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/bf46f998-91ad-4295-a10d-f4fe1475ff28">
 ![INFRA_STACK_V03](https://github.com/HR-DATA-FABRIC/LOGISTICS_USE_CASE/assets/684692/0cbeb1be-94ce-464f-abb1-fd40109c2a43)
 
 # Building a data-driven infrastructure
