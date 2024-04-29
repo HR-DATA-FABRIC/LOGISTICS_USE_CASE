@@ -18,7 +18,7 @@ After completion of this course, you have a basic understanding of what kind of 
 
 In addition, you will learn how to use ChatGPT to get a better understanding of the presented course materials through a set of predefined prompts.
 
-##Who should follow this course?
+## Who should follow this course?
 Bachelor students who want to experience hands-on what kind of toolchains and hardware is needed to solve data driven logistics use cases in real-world business environments. 
 
 Even if you don’t have a background in infrastructure, data science and/or data engineering. This also counts for representatives from small/medium enterprises with no background on this topic.
